@@ -1,6 +1,6 @@
 # Sinatra Starter
 
-A very simple starting point with Sinatra and MySQL for springboarind basic apps
+A very simple starting point with Sinatra and MySQL for springboaring basic apps.
 
 Setup:
 - clone
@@ -8,8 +8,8 @@ Setup:
 - set up config.yml
 - bundle install
 - generate new models with 
-  `rake db:create_migration NAME=create_model`
+  `rake db:create_migration NAME=create_model` and
   `rake db:migrate`
 
 To Run:
-- ruby app.rb
+- `ruby app.rb`
