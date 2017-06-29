@@ -1,0 +1,7 @@
+database:
+  adapter: mysql2              
+  host: localhost                          
+  port: 3306                          
+  database: changeme
+  username: root
+  password:              
